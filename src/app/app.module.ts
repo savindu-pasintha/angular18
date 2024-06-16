@@ -13,7 +13,7 @@ import { SharedModule } from './components/shared.module';
       AppComponent
     ],
     imports: [
-      BrowserModule
+      BrowserModule,SharedModule
     ],
     providers: [],
     bootstrap: [AppComponent],

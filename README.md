@@ -1,3 +1,11 @@
+# Theory
+
+To creade shared module or resuable module
+check the c
+omponent/naviation navigation/component.ts and component/shared.module.ts and pages/home home.component.ts and home.module.ts and home.component.html
+
+
+
 # Angularapp1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
