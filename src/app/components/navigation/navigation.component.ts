@@ -1,5 +1,4 @@
-import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component,Input } from '@angular/core';
 
 @Component({
   selector: 'app-navigation',
@@ -15,4 +14,10 @@ export class NavigationComponent {
   { name: 'Item 2', description: 'This is the second item.' },
   { name: 'Item 3', description: 'This is the third item.' }
 ];
+
+
+@Input() attribute1: string='';
+@Input() attribute2: number=0;
+@Input() attribute3: string='';
+
 }
