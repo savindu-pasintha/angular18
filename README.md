@@ -1,8 +1,7 @@
 # Theory
 
-To creade shared module or resuable module
-check the c
-omponent/naviation navigation/component.ts and component/shared.module.ts and pages/home home.component.ts and home.module.ts and home.component.html
+### To creade shared module or resuable module
+check the component/naviation navigation/component.ts and component/shared.module.ts and pages/home home.component.ts and home.module.ts and home.component.html
 
 
 
